@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+body{
+    background-color: #282c34;
+    color: white;
+    font-size: 1.2em;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.navbar li{
+    padding: 10px 20px;
+    border-radius: 10px;
+    transition: all 0.3s ease-in-out;
+}
+.navbar li:hover{
+    background-color: #888888;
+    cursor: pointer;
+    color:whitesmoke;
+}
