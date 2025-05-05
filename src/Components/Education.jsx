@@ -19,7 +19,7 @@ export const Education = () => {
                     <div className='mt-5 border-2 p-5 rounded '>
 
                         <p>2021</p>
-                        <h1 className='text-blue-400'>S.S.L.C</h1>
+                        <h1 className='text-blue-400'>H.S.C</h1>
                         <p>S.S.H.N Hr Sec School,Muhavor</p>
                         <p className='text-gray-400'>Completed my H.S.C Course From State Board <span className='text-blue-500 hover:cursor-pointer hover:text-white transition delay-200 duration-350 ease-in-out'>with 85%</span></p>
                     </div>

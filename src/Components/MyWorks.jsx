@@ -4,7 +4,7 @@ export const MyWorks = () => {
     return (
         <>
             <div id='myworks' className='mt-10 '>
-                <h1 className='text-center text-4xl '>MyWorkes</h1>
+                <h1 className='text-center text-4xl '>MyWorks</h1>
 
                 <div className='container mx-auto flex flex-col md:flex-row lg:flex-row justify-between items-center gap-5'>
 
